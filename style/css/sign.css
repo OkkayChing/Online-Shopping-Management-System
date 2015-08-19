@@ -1,0 +1,15 @@
+.insideContainer{
+  border: 1px solid #c4c4c4;
+  border-radius: 10px;
+  background-color: #eaeaea;
+  width: 45em;
+  min-width: 45em;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
+
+.form-horizontal{
+  margin-top: 10%;
+  margin-left: 3%;
+}

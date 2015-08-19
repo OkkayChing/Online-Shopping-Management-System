@@ -1,0 +1,19 @@
+.sidebarTopTxt{
+	font-size: 19px;
+	margin-left: 11%;
+	margin-top: 10%;
+}
+
+.catList{
+	margin-left: 25%;
+	margin-top: 18%;
+	font-size: 17px;
+}
+
+.productIMG{
+	border: 1px solid #666666;
+}
+
+.insideTableContent{
+	margin-left: 0%;
+}

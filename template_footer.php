@@ -1,0 +1,1 @@
+<div class="footer">        <p>&copy; <a href='http://localhost/OnlineMegaShop/'>MEGAstallBD.com</a> 2013</p></div>

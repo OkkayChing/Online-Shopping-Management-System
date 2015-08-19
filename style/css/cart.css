@@ -1,0 +1,93 @@
+.contentBoard{
+	border: 1px solid GREY;
+	border-radius: 10px;
+	background-image:url('../img/Cart2.png');
+	background-size: 10em 10em;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-left: 5%;
+	width: 70em;
+	min-width: 60em;
+	min-height: 22em;
+}
+
+.ContentTable{
+	border: 1px solid GREY;
+	border-radius: 10px;
+	margin-top: 3%;
+	margin-left: 3%;
+	margin-bottom: 3%;
+	width: 65em;
+	min-width: 50em;
+	min-height: 18em;
+}
+
+.contentMainTableHead{
+	margin-top: 2%;
+	margin-left: 0.5%;
+	border-bottom: 2px solid GREY;
+	background-color: #f6f6f6;
+}
+
+.contentMainTableRow{
+	margin-top: 1%;
+	color: GREEN;
+}
+
+.PurchaseBoard{
+	border: 1px solid GREY;
+	border-radius: 10px;
+	margin-top: 5%;
+	margin-left: 30%;
+	width: 30em;
+	min-width: 30em;
+	min-height: 15em;
+}
+
+.PurchaseTable{
+	border: 1px solid GREY;
+	border-radius: 10px;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-bottom: 2%;
+	width: 28.7em;
+	min-width: 28.7em;
+	min-height: 14em;
+}
+
+.purchaseTxt{
+	margin-top: 10%;
+	margin-left: 15%;
+}
+
+.ttlTxt{
+	font-size: 29px;
+	font-weight: bold;
+	color: #08519b;
+}
+
+.ttlTxtValue{
+	font-size: 34px;
+	color: #9d366b;
+}
+
+.prcTxt{
+	font-size: 32px;
+	font-weight: bold;
+	color: #2f091d;
+}
+
+.prcTxtValue{
+	font-size: 33px;
+	color: #d43232;
+}
+
+.cartICO2{
+	margin-top: 3%;
+	margin-left: 15%;
+}
+
+.dltICO{
+	width: 10px;
+	height: 10px;
+}

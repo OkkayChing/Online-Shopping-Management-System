@@ -1,0 +1,58 @@
+.sidebarTopTxt{
+	font-size: 19px;
+	margin-left: 11%;
+	margin-top: 10%;
+}
+
+.catList{
+	margin-left: 25%;
+	margin-top: 18%;
+	font-size: 17px;
+}
+
+.productIMG{
+	border: 1px solid #666666;
+}
+
+.contentBoard{
+	border: 1px solid GREY;
+	border-radius: 10px;
+	margin-left: 15%;
+	width: 54em;
+	min-width: 50em;
+	min-height: 30em;
+}
+
+.insideTable{
+	margin-top: 8%;
+	margin-left: 17%;
+}
+
+.DetailProductPic{
+	 text-decoration: underline; 
+	 color: #429344;
+}
+
+.DetailProductList{
+	 text-decoration: none; 
+	 color: #429344;
+}
+
+.DetailProductListTitle{
+	 text-decoration: underline; 
+	 color: #429344;
+}
+
+.cartICO{
+	margin-top: 3%;
+	width: 10em;
+	height: 3em;
+	float: left;
+}
+
+.cartICO2{
+	margin-left: 1.5%;
+	width: 10em;
+	height: 3em;
+	float: left;
+}
